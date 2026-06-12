@@ -1,0 +1,144 @@
+*{
+	margin:0%;
+	padding:0%;
+}
+header{
+	height:80px;
+	background-color:black;
+	color:white;
+}
+.width{
+	margin:1.3% 0% 0% 12.3%;
+	width:87.7%;
+}
+.left{
+	float:left
+}
+.what{
+	height:42px;
+	width:35%;
+	background-color:white;
+	margin:0% 0% 0% 4%;
+	border-radius:10px;
+}
+.for{
+	margin:13px 0px 0px 26px;
+	font-size:15px;
+	width:87%;
+	outline:none;
+	border:none;
+}
+.map{
+	margin:0.7% 0% 0% 10.2%;
+	font-size:17px;
+}
+.man{
+	font-size:26px;
+	margin:0px 0px 0px 21px;
+}
+
+.menu{
+	position:relative;
+}
+.drop-content{
+	display:none;
+	color:black;
+	position:absolute;
+	background-color:black;
+	width:30.8%;
+	height:830px;
+	margin-top:4.5%;
+}
+.at{
+	height:220px;
+	background-color:#323232;
+	width:94%;
+}
+.menu:hover .drop-content{
+	display:block;
+}			
+.ico{
+	margin:0.5% 0% 0% 2.5%;
+	font-size:20px;
+}
+.exclusive{
+	height:55px;
+	color:white;
+}
+.exclusive:hover{
+	background-color:#12DAA8;
+}
+.lines{
+	width:90%;
+	margin-left:5%;	
+}
+.birt{
+	font-size:30px;
+}
+.left{
+	float:left;
+}
+.AtCroma{
+	margin:2% 0% 0% 5%;
+	display:inline-block;
+	color:white;
+}
+.bold{
+	font-weight:bold;
+	margin:6px 0px 0px 5px;
+}
+.and{
+	height:220px;
+	width:94%;
+}
+.teli{
+	height:43px;
+	background-color:black;
+	color:white;
+}
+.teli:hover{
+	background-color:#12DAA8;
+}
+.Accessories{
+	margin:10px 0px 0px 24px;
+	font-size:16px;
+}
+.rights{
+	float:right;
+	margin-top:7.9px;
+	font-size:23px;
+}
+.stepsecond{
+	position:relative:
+}
+.step{
+	position:absolute;
+	display:none;
+	color:white;
+	height:830px;
+	width:80%;
+	background-color:black;
+	left:93%;
+	top:0;
+}
+.stepsecond:hover .step{
+	display:block;
+}
+.third{
+	position:relative;
+}
+.lastthird{
+	background-color:black;
+	position:absolute;
+	display:none;
+	color:white;
+	height:830px;
+	width:80%;
+	left:100%;
+	margin-top:-13%;
+	
+	
+}
+.third:hover .lastthird{
+	display:block;
+}
